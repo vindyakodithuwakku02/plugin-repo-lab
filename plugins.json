@@ -1,6 +1,14 @@
 [
   {
     "name": "Sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
+    "path": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "vindya-plugin",
+    "path": "./plugins/vindya-plugin/plugin.js"
+  },
+  {
+    "name": "test-plugin",
+    "path": "./plugins/test-plugin/plugin.js"
   }
 ]
