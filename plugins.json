@@ -10,5 +10,9 @@
   {
     "name": "test-plugin",
     "path": "./plugins/test-plugin/plugin.js"
+  },
+  {
+    "name": "new-local-plugin",
+    "path": "./plugins/new-local-plugin/plugin.js"
   }
 ]
