@@ -14,5 +14,11 @@
   {
     "name": "new-local-plugin",
     "path": "./plugins/new-local-plugin/plugin.js"
-  }
+  },
+  {
+  "name": "new-local-plugin",
+  "path": "./plugins/feature-local-plugin/plugin.js"
+}
+
+
 ]
